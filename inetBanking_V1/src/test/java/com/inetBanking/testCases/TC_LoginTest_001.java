@@ -33,7 +33,7 @@ public class TC_LoginTest_001 extends BaseClass{
 					System.out.println("Get the title");			
 					AssertJUnit.assertTrue(true);
 					//logger.info("Login Test passed");
-					
+			
 				}
 				else
 				{

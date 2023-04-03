@@ -16,11 +16,7 @@ public class DepositForm {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 	}
-		
-		
-		
-	
-		
+			
 		By accno= By.cssSelector("[name='accountno']");
 		By bal= By.cssSelector("[name='balance']");
 		By desc= By.cssSelector("[name='desc']");
